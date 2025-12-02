@@ -7,9 +7,9 @@ configuration settings of the I2C system
 #include "projectheader.h"
 /*====DEFINITIONS====*/
 
-    /*====I2C SETTINGS====*/
-    #define I2C_MASTER_SCL_IO      37     // GPIO pin for I2C Clock (SCL)
-    #define I2C_MASTER_SDA_IO      38     // GPIO pin for I2C Data (SDA)
+    /*====I2C SETTINGS for MPU====*/
+    #define I2C_MASTER_SCL_IO      18    // GPIO pin for I2C Clock (SCL)
+    #define I2C_MASTER_SDA_IO      8    // GPIO pin for I2C Data (SDA)
     #define I2C_MASTER_NUM         I2C_NUM_0
     #define I2C_MASTER_FREQ_HZ     100000  
     #define I2C_TIMEOUT_MS         1000
