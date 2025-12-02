@@ -34,8 +34,4 @@ void i2c_configuration()
     ESP_LOGI(TAG, "I2C master initialized...");
 }
 
-esp_err_t i2c_send_data(uint8_t device_addr, uint8_t start_reg, uint8_t *buffer, size_t length)
-{
-
-}
-
+esp_err_t i2c_send_data(uint8_t device_addr, uint8_t start_reg, uint8_t *buffer, size_t length);

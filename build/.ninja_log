@@ -1004,3 +1004,435 @@
 16782	17116	7863350312841921	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
 17117	17231	7863350312954116	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
 17117	17231	7863350312954116	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+195	363	7863910514698169	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+195	363	7863910514698169	bootloader/bootloader.elf	9b650e0740d464f1
+195	363	7863910514698169	bootloader/bootloader.bin	9b650e0740d464f1
+195	363	7863910514698169	bootloader/bootloader.map	9b650e0740d464f1
+195	363	7863910514698169	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+195	363	7863910514698169	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+195	363	7863910514698169	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+195	363	7863910514698169	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+363	400	7863910516379640	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+363	400	7863910516379640	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+130	454	7863910514056227	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+400	500	7863910517689883	CMakeFiles/bootloader-complete	22887d3e8f39a135
+400	500	7863910517689883	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+400	500	7863910517689883	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+400	500	7863910517689883	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+110	265	7863913848639919	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+110	265	7863913848639919	bootloader/bootloader.elf	9b650e0740d464f1
+110	265	7863913848639919	bootloader/bootloader.bin	9b650e0740d464f1
+110	265	7863913848639919	bootloader/bootloader.map	9b650e0740d464f1
+110	265	7863913848639919	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+110	265	7863913848639919	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+110	265	7863913848639919	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+110	265	7863913848639919	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+265	305	7863913850190288	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+265	305	7863913850190288	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+126	289	7863914362966254	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+126	289	7863914362966254	bootloader/bootloader.elf	9b650e0740d464f1
+126	289	7863914362966254	bootloader/bootloader.bin	9b650e0740d464f1
+126	289	7863914362966254	bootloader/bootloader.map	9b650e0740d464f1
+126	289	7863914362966254	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+126	289	7863914362966254	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+126	289	7863914362966254	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+126	289	7863914362966254	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+64	300	7863914362340655	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+83	315	7863914362530724	esp-idf/main/CMakeFiles/__idf_main.dir/i2c_main.c.obj	a5b9ac577e216109
+289	329	7863914364600212	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+289	329	7863914364600212	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+103	349	7863914362736271	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+329	418	7863914365830744	CMakeFiles/bootloader-complete	22887d3e8f39a135
+329	418	7863914365830744	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+329	418	7863914365830744	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+329	418	7863914365830744	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+350	491	7863914365195372	esp-idf/main/libmain.a	f07450ea5c779c3e
+491	8359	7863914444951427	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+491	8359	7863914444951427	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8359	9131	7863914445291392	FINAL.elf	c85ec37520228c82
+9131	9401	7863914455598168	.bin_timestamp	80f7bd411760aefb
+9131	9401	7863914455598168	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+9402	9503	7863914455718332	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+9402	9503	7863914455718332	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+77	169	7863915053103519	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+77	169	7863915053103519	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+67	214	7863915053013701	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+67	214	7863915053013701	bootloader/bootloader.elf	9b650e0740d464f1
+67	214	7863915053013701	bootloader/bootloader.bin	9b650e0740d464f1
+67	214	7863915053013701	bootloader/bootloader.map	9b650e0740d464f1
+67	214	7863915053013701	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+67	214	7863915053013701	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+67	214	7863915053013701	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+67	214	7863915053013701	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+214	253	7863915054482590	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+214	253	7863915054482590	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+253	398	7863915056276326	CMakeFiles/bootloader-complete	22887d3e8f39a135
+253	398	7863915056276326	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+253	398	7863915056276326	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+253	398	7863915056276326	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+73	160	7863915828390148	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+73	160	7863915828390148	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+63	205	7863915828300063	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+63	205	7863915828300063	bootloader/bootloader.elf	9b650e0740d464f1
+63	205	7863915828300063	bootloader/bootloader.bin	9b650e0740d464f1
+63	205	7863915828300063	bootloader/bootloader.map	9b650e0740d464f1
+63	205	7863915828300063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+63	205	7863915828300063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+63	205	7863915828300063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+63	205	7863915828300063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+205	251	7863915829716902	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+205	251	7863915829716902	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+251	344	7863915831064001	CMakeFiles/bootloader-complete	22887d3e8f39a135
+251	344	7863915831064001	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+251	344	7863915831064001	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+251	344	7863915831064001	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+80	279	7863916579343938	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+80	279	7863916579343938	bootloader/bootloader.elf	9b650e0740d464f1
+80	279	7863916579343938	bootloader/bootloader.bin	9b650e0740d464f1
+80	279	7863916579343938	bootloader/bootloader.map	9b650e0740d464f1
+80	279	7863916579343938	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+80	279	7863916579343938	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+80	279	7863916579343938	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+80	279	7863916579343938	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+62	297	7863916579164100	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+280	324	7863916581335909	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+280	324	7863916581335909	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+324	412	7863916582607656	CMakeFiles/bootloader-complete	22887d3e8f39a135
+324	412	7863916582607656	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+324	412	7863916582607656	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+324	412	7863916582607656	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+297	431	7863916581515894	esp-idf/main/libmain.a	f07450ea5c779c3e
+431	8023	7863916658485122	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+431	8023	7863916658485122	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8023	8702	7863916658775153	FINAL.elf	c85ec37520228c82
+8702	8922	7863916667708047	.bin_timestamp	80f7bd411760aefb
+8702	8922	7863916667708047	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8922	9002	7863916667768079	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8922	9002	7863916667768079	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+181	431	7863917007878071	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+181	431	7863917007878071	bootloader/bootloader.elf	9b650e0740d464f1
+181	431	7863917007878071	bootloader/bootloader.bin	9b650e0740d464f1
+181	431	7863917007878071	bootloader/bootloader.map	9b650e0740d464f1
+181	431	7863917007878071	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+181	431	7863917007878071	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+181	431	7863917007878071	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+181	431	7863917007878071	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+432	492	7863917010372213	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+432	492	7863917010372213	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+493	617	7863917012144368	CMakeFiles/bootloader-complete	22887d3e8f39a135
+493	617	7863917012144368	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+493	617	7863917012144368	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+493	617	7863917012144368	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+160	623	7863917007646999	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+624	891	7863917012274102	esp-idf/main/libmain.a	f07450ea5c779c3e
+891	8344	7863917089192392	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+891	8344	7863917089192392	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8344	9020	7863917089484761	FINAL.elf	c85ec37520228c82
+9020	9261	7863917098586878	.bin_timestamp	80f7bd411760aefb
+9020	9261	7863917098586878	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+9261	9364	7863917098656881	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+9261	9364	7863917098656881	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+116	269	7863917921472806	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+116	269	7863917921472806	bootloader/bootloader.elf	9b650e0740d464f1
+116	269	7863917921472806	bootloader/bootloader.bin	9b650e0740d464f1
+116	269	7863917921472806	bootloader/bootloader.map	9b650e0740d464f1
+116	269	7863917921472806	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+116	269	7863917921472806	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+116	269	7863917921472806	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+116	269	7863917921472806	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+64	296	7863917920957525	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+269	307	7863917923008261	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+269	307	7863917923008261	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+91	322	7863917921212760	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+308	391	7863917924178569	CMakeFiles/bootloader-complete	22887d3e8f39a135
+308	391	7863917924178569	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+308	391	7863917924178569	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+308	391	7863917924178569	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+322	448	7863917923528525	esp-idf/main/libmain.a	f07450ea5c779c3e
+448	18135	7863918101309049	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+448	18135	7863918101309049	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+18135	18838	7863918101659544	FINAL.elf	c85ec37520228c82
+18839	19077	7863918111039560	.bin_timestamp	80f7bd411760aefb
+18839	19077	7863918111039560	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+19077	19160	7863918111089353	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+19077	19160	7863918111089353	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+106	262	7863919159394985	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+106	262	7863919159394985	bootloader/bootloader.elf	9b650e0740d464f1
+106	262	7863919159394985	bootloader/bootloader.bin	9b650e0740d464f1
+106	262	7863919159394985	bootloader/bootloader.map	9b650e0740d464f1
+106	262	7863919159394985	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+106	262	7863919159394985	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+106	262	7863919159394985	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+106	262	7863919159394985	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+262	300	7863919160957186	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+262	300	7863919160957186	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+416	722	7863919339270642	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+416	722	7863919339270642	bootloader/bootloader.elf	9b650e0740d464f1
+416	722	7863919339270642	bootloader/bootloader.bin	9b650e0740d464f1
+416	722	7863919339270642	bootloader/bootloader.map	9b650e0740d464f1
+416	722	7863919339270642	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+416	722	7863919339270642	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+416	722	7863919339270642	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+416	722	7863919339270642	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+725	804	7863919342331850	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+725	804	7863919342331850	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+341	892	7863919338499313	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+382	922	7863919338911978	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+804	983	7863919344753442	CMakeFiles/bootloader-complete	22887d3e8f39a135
+804	983	7863919344753442	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+804	983	7863919344753442	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+804	983	7863919344753442	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+922	1206	7863919344302647	esp-idf/main/libmain.a	f07450ea5c779c3e
+1207	22038	7863919554939548	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+1207	22038	7863919554939548	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+22039	23428	7863919555465043	FINAL.elf	c85ec37520228c82
+23443	23944	7863919574391926	.bin_timestamp	80f7bd411760aefb
+23443	23944	7863919574391926	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+23944	24131	7863919574592019	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+23944	24131	7863919574592019	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+245	769	7863920499165837	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+245	769	7863920499165837	bootloader/bootloader.elf	9b650e0740d464f1
+245	769	7863920499165837	bootloader/bootloader.bin	9b650e0740d464f1
+245	769	7863920499165837	bootloader/bootloader.map	9b650e0740d464f1
+245	769	7863920499165837	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+245	769	7863920499165837	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+245	769	7863920499165837	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+245	769	7863920499165837	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+770	840	7863920504426138	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+770	840	7863920504426138	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+193	961	7863920498645627	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+840	996	7863920506608447	CMakeFiles/bootloader-complete	22887d3e8f39a135
+840	996	7863920506608447	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+840	996	7863920506608447	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+840	996	7863920506608447	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+217	1000	7863920498885626	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+1001	1287	7863920506718455	esp-idf/main/libmain.a	f07450ea5c779c3e
+1289	13149	7863920627663787	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+1289	13149	7863920627663787	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+13150	14548	7863920628205430	FINAL.elf	c85ec37520228c82
+14548	14980	7863920646320473	.bin_timestamp	80f7bd411760aefb
+14548	14980	7863920646320473	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+14983	15141	7863920646545886	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+14983	15141	7863920646545886	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+118	276	7863921016819224	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+118	276	7863921016819224	bootloader/bootloader.elf	9b650e0740d464f1
+118	276	7863921016819224	bootloader/bootloader.bin	9b650e0740d464f1
+118	276	7863921016819224	bootloader/bootloader.map	9b650e0740d464f1
+118	276	7863921016819224	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+118	276	7863921016819224	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+118	276	7863921016819224	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+118	276	7863921016819224	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+277	316	7863921018410126	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+277	316	7863921018410126	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+106	265	7863921173041715	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+106	265	7863921173041715	bootloader/bootloader.elf	9b650e0740d464f1
+106	265	7863921173041715	bootloader/bootloader.bin	9b650e0740d464f1
+106	265	7863921173041715	bootloader/bootloader.map	9b650e0740d464f1
+106	265	7863921173041715	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+106	265	7863921173041715	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+106	265	7863921173041715	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+106	265	7863921173041715	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+109	262	7863921752159433	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+109	262	7863921752159433	bootloader/bootloader.elf	9b650e0740d464f1
+109	262	7863921752159433	bootloader/bootloader.bin	9b650e0740d464f1
+109	262	7863921752159433	bootloader/bootloader.map	9b650e0740d464f1
+109	262	7863921752159433	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+109	262	7863921752159433	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+109	262	7863921752159433	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+109	262	7863921752159433	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+72	284	7863921751793964	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+262	300	7863921753694843	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+262	300	7863921753694843	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+90	311	7863921751974018	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+300	384	7863921754861056	CMakeFiles/bootloader-complete	22887d3e8f39a135
+300	384	7863921754861056	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+300	384	7863921754861056	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+300	384	7863921754861056	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+311	444	7863921754189989	esp-idf/main/libmain.a	f07450ea5c779c3e
+444	7798	7863921828776676	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+444	7798	7863921828776676	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+7799	8466	7863921829059456	FINAL.elf	c85ec37520228c82
+8466	8688	7863921837907010	.bin_timestamp	80f7bd411760aefb
+8466	8688	7863921837907010	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8689	8772	7863921837957271	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8689	8772	7863921837957271	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+83	264	7863922393799878	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+83	264	7863922393799878	bootloader/bootloader.elf	9b650e0740d464f1
+83	264	7863922393799878	bootloader/bootloader.bin	9b650e0740d464f1
+83	264	7863922393799878	bootloader/bootloader.map	9b650e0740d464f1
+83	264	7863922393799878	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+83	264	7863922393799878	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+83	264	7863922393799878	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+83	264	7863922393799878	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+64	288	7863922393604408	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+265	312	7863922395622613	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+265	312	7863922395622613	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+312	394	7863922396869063	CMakeFiles/bootloader-complete	22887d3e8f39a135
+312	394	7863922396869063	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+312	394	7863922396869063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+312	394	7863922396869063	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+288	414	7863922395853565	esp-idf/main/libmain.a	f07450ea5c779c3e
+414	7999	7863922472626735	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+414	7999	7863922472626735	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+7999	8676	7863922472956770	FINAL.elf	c85ec37520228c82
+8677	8932	7863922482138319	.bin_timestamp	80f7bd411760aefb
+8677	8932	7863922482138319	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8933	9018	7863922482293795	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8933	9018	7863922482293795	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+87	241	7863923873550948	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+87	241	7863923873550948	bootloader/bootloader.elf	9b650e0740d464f1
+87	241	7863923873550948	bootloader/bootloader.bin	9b650e0740d464f1
+87	241	7863923873550948	bootloader/bootloader.map	9b650e0740d464f1
+87	241	7863923873550948	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+87	241	7863923873550948	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+87	241	7863923873550948	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+87	241	7863923873550948	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+242	281	7863923875093789	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+242	281	7863923875093789	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+92	255	7863923969769065	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+92	255	7863923969769065	bootloader/bootloader.elf	9b650e0740d464f1
+92	255	7863923969769065	bootloader/bootloader.bin	9b650e0740d464f1
+92	255	7863923969769065	bootloader/bootloader.map	9b650e0740d464f1
+92	255	7863923969769065	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+92	255	7863923969769065	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+92	255	7863923969769065	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+92	255	7863923969769065	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+255	303	7863923971398142	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+255	303	7863923971398142	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+90	242	7863924059287541	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	242	7863924059287541	bootloader/bootloader.elf	9b650e0740d464f1
+90	242	7863924059287541	bootloader/bootloader.bin	9b650e0740d464f1
+90	242	7863924059287541	bootloader/bootloader.map	9b650e0740d464f1
+90	242	7863924059287541	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	242	7863924059287541	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+90	242	7863924059287541	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+90	242	7863924059287541	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+243	281	7863924060818977	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+243	281	7863924060818977	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+70	300	7863924059097540	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+282	372	7863924062064261	CMakeFiles/bootloader-complete	22887d3e8f39a135
+282	372	7863924062064261	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+282	372	7863924062064261	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+282	372	7863924062064261	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+300	438	7863924061398978	esp-idf/main/libmain.a	f07450ea5c779c3e
+438	8176	7863924139835129	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+438	8176	7863924139835129	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8176	8856	7863924140145122	FINAL.elf	c85ec37520228c82
+8857	9089	7863924149241652	.bin_timestamp	80f7bd411760aefb
+8857	9089	7863924149241652	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+9089	9182	7863924149281629	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+9089	9182	7863924149281629	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+131	291	7863925472752682	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+131	291	7863925472752682	bootloader/bootloader.elf	9b650e0740d464f1
+131	291	7863925472752682	bootloader/bootloader.bin	9b650e0740d464f1
+131	291	7863925472752682	bootloader/bootloader.map	9b650e0740d464f1
+131	291	7863925472752682	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+131	291	7863925472752682	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+131	291	7863925472752682	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+131	291	7863925472752682	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+65	305	7863925472095028	esp-idf/main/CMakeFiles/__idf_main.dir/keypad.c.obj	c2e32f7d38d50928
+85	317	7863925472295042	esp-idf/main/CMakeFiles/__idf_main.dir/i2c_main.c.obj	a5b9ac577e216109
+291	333	7863925474352918	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+291	333	7863925474352918	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+105	345	7863925472495046	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+333	418	7863925475583239	CMakeFiles/bootloader-complete	22887d3e8f39a135
+333	418	7863925475583239	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+333	418	7863925475583239	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+333	418	7863925475583239	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+345	487	7863925474893208	esp-idf/main/libmain.a	f07450ea5c779c3e
+488	8297	7863925554063391	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+488	8297	7863925554063391	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8297	8991	7863925554409738	FINAL.elf	c85ec37520228c82
+8991	9249	7863925563886609	.bin_timestamp	80f7bd411760aefb
+8991	9249	7863925563886609	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+9250	9331	7863925563936793	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+9250	9331	7863925563936793	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+86	231	7863927427918301	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+86	231	7863927427918301	bootloader/bootloader.elf	9b650e0740d464f1
+86	231	7863927427918301	bootloader/bootloader.bin	9b650e0740d464f1
+86	231	7863927427918301	bootloader/bootloader.map	9b650e0740d464f1
+86	231	7863927427918301	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+86	231	7863927427918301	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+86	231	7863927427918301	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+86	231	7863927427918301	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+232	270	7863927429374923	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+232	270	7863927429374923	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+90	240	7863928148000236	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	240	7863928148000236	bootloader/bootloader.elf	9b650e0740d464f1
+90	240	7863928148000236	bootloader/bootloader.bin	9b650e0740d464f1
+90	240	7863928148000236	bootloader/bootloader.map	9b650e0740d464f1
+90	240	7863928148000236	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	240	7863928148000236	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+90	240	7863928148000236	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+90	240	7863928148000236	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+240	278	7863928149487552	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+240	278	7863928149487552	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+93	255	7863928402413671	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+93	255	7863928402413671	bootloader/bootloader.elf	9b650e0740d464f1
+93	255	7863928402413671	bootloader/bootloader.bin	9b650e0740d464f1
+93	255	7863928402413671	bootloader/bootloader.map	9b650e0740d464f1
+93	255	7863928402413671	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+93	255	7863928402413671	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+93	255	7863928402413671	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+93	255	7863928402413671	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+255	295	7863928404035670	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+255	295	7863928404035670	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+72	313	7863928402203844	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+295	383	7863928405256779	CMakeFiles/bootloader-complete	22887d3e8f39a135
+295	383	7863928405256779	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+295	383	7863928405256779	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+295	383	7863928405256779	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+313	435	7863928404605918	esp-idf/main/libmain.a	f07450ea5c779c3e
+435	7554	7863928476759896	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+435	7554	7863928476759896	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+7555	8230	7863928477026154	FINAL.elf	c85ec37520228c82
+8230	8447	7863928485883513	.bin_timestamp	80f7bd411760aefb
+8230	8447	7863928485883513	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8447	8523	7863928485953514	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8447	8523	7863928485953514	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+90	263	7863931982045528	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	263	7863931982045528	bootloader/bootloader.elf	9b650e0740d464f1
+90	263	7863931982045528	bootloader/bootloader.bin	9b650e0740d464f1
+90	263	7863931982045528	bootloader/bootloader.map	9b650e0740d464f1
+90	263	7863931982045528	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+90	263	7863931982045528	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+90	263	7863931982045528	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+90	263	7863931982045528	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+264	323	7863931983789605	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+264	323	7863931983789605	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+71	342	7863931981861531	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+324	471	7863931985606330	CMakeFiles/bootloader-complete	22887d3e8f39a135
+324	471	7863931985606330	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+324	471	7863931985606330	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+324	471	7863931985606330	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+343	559	7863931984575454	esp-idf/main/libmain.a	f07450ea5c779c3e
+560	8026	7863932061142100	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+560	8026	7863932061142100	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+8026	8716	7863932061407561	FINAL.elf	c85ec37520228c82
+8717	8934	7863932070442467	.bin_timestamp	80f7bd411760aefb
+8717	8934	7863932070442467	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8934	9011	7863932070492648	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8934	9011	7863932070492648	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+79	224	7863933745678399	bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+79	224	7863933745678399	bootloader/bootloader.elf	9b650e0740d464f1
+79	224	7863933745678399	bootloader/bootloader.bin	9b650e0740d464f1
+79	224	7863933745678399	bootloader/bootloader.map	9b650e0740d464f1
+79	224	7863933745678399	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9b650e0740d464f1
+79	224	7863933745678399	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.elf	9b650e0740d464f1
+79	224	7863933745678399	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.bin	9b650e0740d464f1
+79	224	7863933745678399	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader/bootloader.map	9b650e0740d464f1
+224	260	7863933747123562	bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+224	260	7863933747123562	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	e6d11cfecf6d471d
+62	276	7863933745503509	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	73268a2afac84d7a
+260	342	7863933748259210	CMakeFiles/bootloader-complete	22887d3e8f39a135
+260	342	7863933748259210	bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+260	342	7863933748259210	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/CMakeFiles/bootloader-complete	22887d3e8f39a135
+260	342	7863933748259210	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	22887d3e8f39a135
+276	389	7863933747643876	esp-idf/main/libmain.a	f07450ea5c779c3e
+389	7569	7863933820270153	esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+389	7569	7863933820270153	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esp_system/ld/sections.ld	45ad87e5770539c
+7569	8248	7863933820575287	FINAL.elf	c85ec37520228c82
+8248	8475	7863933829562055	.bin_timestamp	80f7bd411760aefb
+8248	8475	7863933829562055	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/.bin_timestamp	80f7bd411760aefb
+8476	8554	7863933829637288	esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb
+8476	8554	7863933829637288	C:/Users/rijad/Desktop/dirty stuff/Programming/ESP32/Projects/FINAL/build/esp-idf/esptool_py/CMakeFiles/app_check_size	24ef75eab64fcadb

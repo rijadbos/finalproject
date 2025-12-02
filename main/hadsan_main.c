@@ -1,4 +1,4 @@
-.c/*
+/*
  * main_clean.c
  * Single-file clean implementation for: Keypad (4x4) -> PIN -> I2C LCD (PCF8574) + MPU6050 + LEDs
  */
